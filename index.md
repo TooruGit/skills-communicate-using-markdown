@@ -17,8 +17,9 @@ var myVar = "Hello, world!";
 int a* = malloc(5 * sizeof(int));
 ```
 
-
-
+- [x] learning GIT
+- [ ] learning GITHUB
+- [ ] learning typescript
 
 
 
@@ -28,6 +29,7 @@ int a* = malloc(5 * sizeof(int));
 
 
 small meaningful message for commit
+
 
 
 
