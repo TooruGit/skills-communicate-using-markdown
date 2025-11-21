@@ -1,3 +1,4 @@
+
 # head
 
 ## head2
@@ -8,12 +9,13 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+``` javascript
+var myVar = "Hello, world!";
+```
 
-#include <stdio.h>
-
-int main(){
-  return 0;
-}
+``` C
+int a* = malloc(5 * sizeof(int));
+```
 
 
 
@@ -26,5 +28,6 @@ int main(){
 
 
 small meaningful message for commit
+
 
 
